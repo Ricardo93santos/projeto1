@@ -1,2 +1,2 @@
 # projeto1
-Site para Arquitetos, Interior Designer.
+Site modelo para Arquitetos, Designer de Interior e Engenheiros.
